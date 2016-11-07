@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RailsHoge::VERSION
   s.authors     = ["J.Fukaya"]
   s.email       = ["fukajun.shark@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsHoge."
-  s.description = "TODO: Description of RailsHoge."
+  s.homepage    = "http://fukajun.org/"
+  s.summary     = "Summary of RailsHoge."
+  s.description = "Description of RailsHoge."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
