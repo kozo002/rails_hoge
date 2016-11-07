@@ -1,0 +1,3 @@
+module RailsHoge
+  # Your code goes here...
+end
